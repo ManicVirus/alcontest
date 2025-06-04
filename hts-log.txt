@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 28 May 2025 15:29:40 at https://alconsilver.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://alconsilver.com/ -O1 "S:\Client Files - Documents\Alcone Silver\Alcone Silver Website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:30:58	Error: 	"Forbidden" (403) at link https://alconsilver.com/xmlrpc.php?rsd (from https://alconsilver.com/)
+15:31:06	Warning: 	Moved Permanently for https://alconsilver.com/?p=302
+15:31:06	Warning: 	File has moved from https://alconsilver.com/?p=302 to https://alconsilver.com/disclaimer/
+15:31:06	Warning: 	Moved Permanently for https://alconsilver.com/?p=826
+15:31:06	Warning: 	File has moved from https://alconsilver.com/?p=826 to https://alconsilver.com/alcon-receives-receipt-for-amended-and-restated-final-prospectus/
+15:31:06	Warning: 	Moved Permanently for https://alconsilver.com/?p=789
+15:31:06	Warning: 	File has moved from https://alconsilver.com/?p=789 to https://alconsilver.com/alcon-receives-receipt-for-final-prospectus/
+15:31:06	Warning: 	Moved Permanently for https://alconsilver.com/?p=485
+15:31:06	Warning: 	File has moved from https://alconsilver.com/?p=485 to https://alconsilver.com/alcon-silver-corp-announces-participation-in-red-clouds-2023-pre-pdac-mining-showcase/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 27 seconds : 313 links scanned, 306 files written (109594630 bytes overall) [105591984 bytes received at 1213700 bytes/sec], 5507088 bytes transferred using HTTP compression in 112 files, ratio 24%, 26.0 requests per connection
+(1 errors, 8 warnings, 0 messages)
